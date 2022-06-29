@@ -31,10 +31,10 @@
 
 #### Q5. A state machine in AWS Step Function makes use of the AWS Batch service to run a batch job on many EC2 instances. The state machine doesn’t need to see the output of the batch job, but only that it started. Which of the following service integration pattern should be used?
 
-- [x] Wait for Callback
+- [ ] Wait for Callback
 - [ ] Activity Task
 - [ ] Run a Job
-- [ ] Request Response
+- [x] Request Response
 
 #### Q6. Existing EC2 instances are used to do batch processing on data hosted in an S3 bucket. A state machine in AWS Step Functions must be used to send the location where that data is to that group of instances. Which of the following would be appropriate steps in the right order for this scenario to work?
 
