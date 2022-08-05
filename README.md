@@ -1,2 +1,3 @@
-# aws-course
+# Modern Application Development with Python on AWS
  
+I know, the course title says "Development in Python", but nearly all the code so far is written in JS...
