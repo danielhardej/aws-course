@@ -6,7 +6,7 @@
 - [x] True
 - [ ] False
 
-##### Note: Resources can use memory when they are not acquired and released correctly. This situation can lead to memory issues within a system, which can then lead to slowdowns—or, in a worst-case scenario—a system crash.
+##### Note: Resources can use memory when they are not acquired and released correctly. This situation can lead to memory issues within a system, which can then lead to slowdowns—or, in a worst-case scenario — a system crash.
 
 #### Question 2: What are some of the recommendation categories that Amazon CodeGuru Reviewer can make recommendations on? (Select THREE.)
 
